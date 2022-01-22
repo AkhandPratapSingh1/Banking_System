@@ -1,0 +1,29 @@
+C:\Users\akhan\source\repos\Banking System\Banking System\bin\Debug\Banking System.exe.config
+C:\Users\akhan\source\repos\Banking System\Banking System\bin\Debug\Banking System.exe
+C:\Users\akhan\source\repos\Banking System\Banking System\bin\Debug\Banking System.pdb
+C:\Users\akhan\source\repos\Banking System\Banking System\obj\Debug\Banking System.csproj.AssemblyReference.cache
+C:\Users\akhan\source\repos\Banking System\Banking System\obj\Debug\Banking_System.Form1.resources
+C:\Users\akhan\source\repos\Banking System\Banking System\obj\Debug\Banking_System.Properties.Resources.resources
+C:\Users\akhan\source\repos\Banking System\Banking System\obj\Debug\Banking System.csproj.GenerateResource.cache
+C:\Users\akhan\source\repos\Banking System\Banking System\obj\Debug\Banking System.csproj.CoreCompileInputs.cache
+C:\Users\akhan\source\repos\Banking System\Banking System\obj\Debug\Banking System.exe
+C:\Users\akhan\source\repos\Banking System\Banking System\obj\Debug\Banking System.pdb
+C:\Users\akhan\source\repos\Banking System\Banking System\obj\Debug\Banking_System.Form2.resources
+C:\Users\akhan\source\repos\Banking System\Banking System\obj\Debug\Banking_System.addCustomer.resources
+C:\Users\akhan\source\repos\Banking System\Banking System\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\akhan\source\repos\Banking System\Banking System\bin\Debug\Google.Protobuf.dll
+C:\Users\akhan\source\repos\Banking System\Banking System\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\akhan\source\repos\Banking System\Banking System\bin\Debug\MySql.Data.dll
+C:\Users\akhan\source\repos\Banking System\Banking System\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\akhan\source\repos\Banking System\Banking System\bin\Debug\ZstdNet.dll
+C:\Users\akhan\source\repos\Banking System\Banking System\bin\Debug\System.Memory.dll
+C:\Users\akhan\source\repos\Banking System\Banking System\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\akhan\source\repos\Banking System\Banking System\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\akhan\source\repos\Banking System\Banking System\bin\Debug\System.Buffers.dll
+C:\Users\akhan\source\repos\Banking System\Banking System\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\akhan\source\repos\Banking System\Banking System\bin\Debug\MySql.Data.xml
+C:\Users\akhan\source\repos\Banking System\Banking System\obj\Debug\Banking System.exe.config
+C:\Users\akhan\source\repos\Banking System\Banking System\obj\Debug\Banking_System.Form4.resources
+C:\Users\akhan\source\repos\Banking System\Banking System\obj\Debug\Banking_System.Form5.resources
+C:\Users\akhan\source\repos\Banking System\Banking System\obj\Debug\Banking System.csproj.CopyComplete
+C:\Users\akhan\source\repos\BANKING SYSTEM\Banking System\obj\Debug\Banking_System.Form6.resources
